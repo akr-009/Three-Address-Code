@@ -1,2 +1,2 @@
 # Three-Address-Code
-Pyhton code for Three Address Code using GUI as Front End
+This is a compiler design project that implements Intermediate code generation(ICG) - 3 address code
